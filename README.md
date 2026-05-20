@@ -17,7 +17,7 @@
 - **家长端**：学习情况自动汇总，每日推送
 - **后台**：多 Agent 状态机 + 监督机制，**AI 不审自己**
 
-公开仓库不是完整私有系统，也不包含真实题库、学生数据和家庭使用记录。这里保留的是方法、结构、schema 和能跑通的样例流程。
+公开仓库不是完整私有系统，也不包含题库本体。这里保留的是方法、结构、schema、样例流程和部分真实使用形态截图。
 
 ## 为什么做
 
@@ -35,9 +35,27 @@
 
 ![林老板 AI 中考陪跑系统结构图](docs/images/system-architecture.png)
 
-![Obsidian 工作区结构展示](docs/images/obsidian-workspace-redacted.png)
+![Obsidian 工作区结构展示](docs/images/obsidian-workspace.png)
 
-![微信端开跑监督报告（已人工处理）](docs/images/mobile-report-redacted.png)
+![微信端开跑监督报告](docs/images/wechat-supervision-report.png)
+
+### 使用端截图
+
+<p>
+  <img src="docs/images/student-client-01.jpg" width="320" alt="使用端截图 1">
+  <img src="docs/images/student-client-02.jpg" width="320" alt="使用端截图 2">
+  <img src="docs/images/student-client-03.jpg" width="320" alt="使用端截图 3">
+</p>
+
+<p>
+  <img src="docs/images/student-client-04.jpg" width="320" alt="使用端截图 4">
+  <img src="docs/images/student-client-05.jpg" width="320" alt="使用端截图 5">
+  <img src="docs/images/student-client-06.jpg" width="320" alt="使用端截图 6">
+</p>
+
+<p>
+  <img src="docs/images/student-client-07.jpg" width="320" alt="使用端截图 7">
+</p>
 
 ## 核心设计思想
 
