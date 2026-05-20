@@ -31,11 +31,11 @@
 
 ## 系统长什么样
 
-下面三张图只展示系统结构和报告形态；公开截图已人工处理后发布。
+下面三张图展示系统结构、Obsidian 工作区和微信报告形态。
 
 ![林老板 AI 中考陪跑系统结构图](docs/images/system-architecture.png)
 
-![Obsidian 工作区结构展示（已脱敏）](docs/images/obsidian-workspace-redacted.png)
+![Obsidian 工作区结构展示](docs/images/obsidian-workspace-redacted.png)
 
 ![微信端开跑监督报告（已人工处理）](docs/images/mobile-report-redacted.png)
 
