@@ -1,58 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title desc">
   <title id="title">Zhongkao Peipao GitHub Social Preview</title>
-  <desc id="desc">A GitHub preview banner for Chous's AI-assisted Zhongkao study workflow.</desc>
-  <rect width="1280" height="640" fill="#0f172a"/>
-  <rect x="56" y="56" width="1168" height="528" rx="28" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <desc id="desc">A light GitHub preview banner for Chous's AI-assisted Zhongkao study workflow.</desc>
+  <rect width="1280" height="640" fill="#f8fafc"/>
+  <rect x="44" y="44" width="1192" height="552" rx="32" fill="#ffffff" stroke="#dbeafe" stroke-width="2"/>
 
-  <g transform="translate(96 92)">
-    <rect x="0" y="0" width="188" height="48" rx="24" fill="#f5c542"/>
-    <text x="94" y="32" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" fill="#111827">Chous / 林老板</text>
+  <g transform="translate(92 84)">
+    <rect x="0" y="0" width="196" height="48" rx="24" fill="#fef3c7"/>
+    <text x="98" y="31" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" fill="#92400e">Chous / 林老板</text>
   </g>
 
-  <text x="96" y="214" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="66" font-weight="800" fill="#f8fafc">中考陪跑系统</text>
-  <text x="96" y="282" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="36" font-weight="600" fill="#cbd5e1">一个改装店老板用 AI 给儿子搭的学习工作流</text>
+  <text x="92" y="206" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="66" font-weight="800" fill="#0f172a">中考陪跑系统</text>
+  <text x="92" y="274" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="34" font-weight="600" fill="#334155">一个改装店老板用 AI 给儿子搭的学习工作流</text>
 
-  <g transform="translate(96 342)" font-family="Arial, 'Microsoft YaHei', sans-serif">
+  <g transform="translate(92 334)" font-family="Arial, 'Microsoft YaHei', sans-serif">
     <g>
-      <rect x="0" y="0" width="158" height="72" rx="12" fill="#1e293b" stroke="#475569"/>
-      <text x="79" y="30" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">9 科</text>
-      <text x="79" y="55" text-anchor="middle" font-size="15" fill="#94a3b8">subjects</text>
+      <rect x="0" y="0" width="158" height="76" rx="14" fill="#eff6ff" stroke="#bfdbfe"/>
+      <text x="79" y="32" text-anchor="middle" font-size="25" font-weight="800" fill="#1d4ed8">9 科</text>
+      <text x="79" y="58" text-anchor="middle" font-size="15" fill="#475569">subjects</text>
     </g>
     <g transform="translate(178 0)">
-      <rect x="0" y="0" width="158" height="72" rx="12" fill="#1e293b" stroke="#475569"/>
-      <text x="79" y="30" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">84 份</text>
-      <text x="79" y="55" text-anchor="middle" font-size="15" fill="#94a3b8">exam papers</text>
+      <rect x="0" y="0" width="158" height="76" rx="14" fill="#ecfdf5" stroke="#bbf7d0"/>
+      <text x="79" y="32" text-anchor="middle" font-size="25" font-weight="800" fill="#047857">84 份</text>
+      <text x="79" y="58" text-anchor="middle" font-size="15" fill="#475569">exam papers</text>
     </g>
     <g transform="translate(356 0)">
-      <rect x="0" y="0" width="178" height="72" rx="12" fill="#1e293b" stroke="#475569"/>
-      <text x="89" y="30" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">1300+ 题</text>
-      <text x="89" y="55" text-anchor="middle" font-size="15" fill="#94a3b8">questions</text>
+      <rect x="0" y="0" width="178" height="76" rx="14" fill="#fff7ed" stroke="#fed7aa"/>
+      <text x="89" y="32" text-anchor="middle" font-size="25" font-weight="800" fill="#c2410c">1300+ 题</text>
+      <text x="89" y="58" text-anchor="middle" font-size="15" fill="#475569">questions</text>
     </g>
     <g transform="translate(554 0)">
-      <rect x="0" y="0" width="178" height="72" rx="12" fill="#1e293b" stroke="#475569"/>
-      <text x="89" y="30" text-anchor="middle" font-size="24" font-weight="700" fill="#f8fafc">5700+ 图</text>
-      <text x="89" y="55" text-anchor="middle" font-size="15" fill="#94a3b8">evidence images</text>
+      <rect x="0" y="0" width="178" height="76" rx="14" fill="#f5f3ff" stroke="#ddd6fe"/>
+      <text x="89" y="32" text-anchor="middle" font-size="25" font-weight="800" fill="#6d28d9">5700+ 图</text>
+      <text x="89" y="58" text-anchor="middle" font-size="15" fill="#475569">evidence images</text>
     </g>
   </g>
 
-  <g transform="translate(96 470)" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="24" font-weight="600">
-    <text x="0" y="0" fill="#f5c542">EXP 驱动</text>
-    <text x="132" y="0" fill="#64748b">/</text>
-    <text x="162" y="0" fill="#f5c542">证据闭环</text>
-    <text x="294" y="0" fill="#64748b">/</text>
-    <text x="324" y="0" fill="#f5c542">三 Agent 分工</text>
-    <text x="512" y="0" fill="#64748b">/</text>
-    <text x="542" y="0" fill="#f5c542">红灯机制</text>
-    <text x="674" y="0" fill="#64748b">/</text>
-    <text x="704" y="0" fill="#f5c542">错题回溯</text>
+  <g transform="translate(92 474)" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="24" font-weight="700">
+    <text x="0" y="0" fill="#1d4ed8">EXP 驱动</text>
+    <text x="132" y="0" fill="#94a3b8">/</text>
+    <text x="162" y="0" fill="#047857">证据闭环</text>
+    <text x="294" y="0" fill="#94a3b8">/</text>
+    <text x="324" y="0" fill="#c2410c">三 Agent 分工</text>
+    <text x="512" y="0" fill="#94a3b8">/</text>
+    <text x="542" y="0" fill="#dc2626">红灯机制</text>
+    <text x="674" y="0" fill="#94a3b8">/</text>
+    <text x="704" y="0" fill="#6d28d9">错题回溯</text>
   </g>
 
-  <text x="96" y="548" font-family="Consolas, 'Courier New', monospace" font-size="26" fill="#94a3b8">github.com/JSD-SpeedUP/zhongkao-peipao</text>
+  <text x="92" y="548" font-family="Consolas, 'Courier New', monospace" font-size="26" fill="#475569">github.com/JSD-SpeedUP/zhongkao-peipao</text>
 
-  <g transform="translate(940 150)">
-    <circle cx="140" cy="140" r="118" fill="#f5c542"/>
-    <circle cx="140" cy="140" r="92" fill="#111827"/>
-    <text x="140" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="#f8fafc">AI</text>
-    <text x="140" y="172" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="28" font-weight="800" fill="#f5c542">陪跑</text>
+  <g transform="translate(930 138)">
+    <circle cx="150" cy="150" r="128" fill="#dbeafe"/>
+    <circle cx="150" cy="150" r="96" fill="#ffffff" stroke="#93c5fd" stroke-width="4"/>
+    <path d="M78 246 C108 198, 190 198, 222 246" fill="none" stroke="#f59e0b" stroke-width="12" stroke-linecap="round"/>
+    <text x="150" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="52" font-weight="900" fill="#1d4ed8">AI</text>
+    <text x="150" y="178" text-anchor="middle" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" font-weight="800" fill="#0f172a">陪跑</text>
   </g>
 </svg>
