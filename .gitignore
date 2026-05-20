@@ -24,6 +24,7 @@ data/student/
 output/
 dist/
 build/
+docs/images/_*.png
 __pycache__/
 *.pyc
 .pytest_cache/

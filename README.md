@@ -10,6 +10,16 @@
 
 目前私有工作区已整理过的材料口径是：9 科、84 份考卷、1300+ 道题、5700+ 张图，覆盖 2013-2025 年。公开仓库不包含这些私有题库、真题原文、教辅内容、学生姓名、成绩或错题记录。
 
+## 系统图示
+
+下面三张图只展示系统结构和报告形态；涉及真实学生、成绩、错题、私有路径和题目内容的部分都已脱敏或不公开。
+
+![林老板 AI 中考陪跑系统结构图](docs/images/system-architecture.png)
+
+![Obsidian 工作区结构展示（已脱敏）](docs/images/obsidian-workspace-redacted.png)
+
+![微信端报告闭环示意（已脱敏）](docs/images/mobile-report-redacted.png)
+
 ## 机制设计
 
 ### EXP 驱动
