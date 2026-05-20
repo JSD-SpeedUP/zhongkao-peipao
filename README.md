@@ -39,6 +39,13 @@
 
 ![微信端开跑监督报告](docs/images/wechat-supervision-report.png)
 
+### 家长端截图
+
+<p>
+  <img src="docs/images/parent-report-01.png" width="320" alt="家长端报告截图 1">
+  <img src="docs/images/parent-report-02.png" width="320" alt="家长端报告截图 2">
+</p>
+
 ### 使用端截图
 
 <p>
