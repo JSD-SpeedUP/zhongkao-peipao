@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Chous">
+  <rect width="160" height="160" rx="24" fill="#111827"/>
+  <circle cx="80" cy="80" r="50" fill="#f5c542"/>
+  <text x="80" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#111827">C</text>
+</svg>

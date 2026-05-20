@@ -1,0 +1,35 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+config.local.json
+*.key
+*.pem
+*.token
+secrets/
+
+# Private question banks and student data
+private/
+question-bank/
+real-question-bank/
+student-data/
+wrong-answers/
+scores/
+reports/private/
+data/private/
+data/raw/
+data/student/
+
+# Local generated outputs
+output/
+dist/
+build/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

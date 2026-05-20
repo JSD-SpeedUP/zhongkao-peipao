@@ -1,0 +1,21 @@
+{
+  "project": "zhongkao-peipao",
+  "author": "Chous",
+  "agents": {
+    "planner": "turn weak points into a short daily practice plan",
+    "reviewer": "check source evidence, copyright safety, and red-light rules",
+    "coach": "turn mistakes into tagged follow-up practice"
+  },
+  "exp": {
+    "base_per_question": 10,
+    "difficulty_multiplier": 5,
+    "review_bonus": 3
+  },
+  "red_lights": [
+    "copyrighted_question_content",
+    "student_identity",
+    "real_score_record",
+    "missing_source_evidence",
+    "answer_without_review"
+  ]
+}

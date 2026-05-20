@@ -1,0 +1,65 @@
+[
+  {
+    "id": "sample-math-table-001",
+    "type": "short_answer",
+    "subject": "math",
+    "stem": "A self-made practice table shows the number of review cards completed over three days. How many cards were completed in total?",
+    "tables": [
+      {
+        "caption": "Review cards completed",
+        "markdown": "| Day | Cards |\n|---|---:|\n| Monday | 8 |\n| Tuesday | 10 |\n| Wednesday | 12 |"
+      }
+    ],
+    "answer": "30",
+    "explanation": "8 + 10 + 12 = 30.",
+    "tags": ["arithmetic", "table-reading"],
+    "difficulty": 1,
+    "source": {
+      "kind": "self_made",
+      "title": "Public sample question",
+      "license": "MIT",
+      "note": "Created only to demonstrate the workflow."
+    },
+    "evidence": {
+      "source_trace": "examples/sample-questions.json",
+      "public_safe": true
+    }
+  },
+  {
+    "id": "sample-science-match-001",
+    "type": "matching",
+    "subject": "science",
+    "stem": "Match each everyday action with the kind of evidence it produces in a study workflow.",
+    "matching": {
+      "left": [
+        {"id": "a", "text": "Finish a practice question"},
+        {"id": "b", "text": "Mark a wrong answer"},
+        {"id": "c", "text": "Review the same weak point tomorrow"}
+      ],
+      "right": [
+        {"id": "1", "text": "EXP record"},
+        {"id": "2", "text": "Mistake tag"},
+        {"id": "3", "text": "Follow-up task"}
+      ],
+      "pairs": [
+        ["a", "1"],
+        ["b", "2"],
+        ["c", "3"]
+      ]
+    },
+    "answer": "a-1, b-2, c-3",
+    "explanation": "The system keeps the learning loop visible: practice creates EXP, mistakes create tags, and tags create follow-up tasks.",
+    "tags": ["workflow", "evidence-loop"],
+    "difficulty": 1,
+    "source": {
+      "kind": "self_made",
+      "title": "Public sample question",
+      "license": "MIT",
+      "note": "Created only to demonstrate the workflow."
+    },
+    "evidence": {
+      "source_trace": "examples/sample-questions.json",
+      "public_safe": true
+    }
+  }
+]
